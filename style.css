@@ -169,7 +169,7 @@ video{
   position: fixed;
   top: 30px;
   right: 30px;
-  background: #fff;
+  background: rgb(63, 62, 62);
   width: 40px;
   height: 40px;
   cursor: pointer;
@@ -243,11 +243,11 @@ video{
 }
 .n-service{
   margin-bottom: 7px;
-  color: #9f8ad0;
+  color: #ffffff;
 }
 .number{
   display: inline-block;
-  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+  background-image: linear-gradient(to top, #ffffff 0%, #242324 100%);
   width: 30px;
   height: 30px;
   color: white;
@@ -379,7 +379,7 @@ footer{
 }
 .social-media-icon:hover{
   background: #fff;
-  color: #764ba2;
+  color: #000000;
 }
 .social-media-icon i{
   font-size: 30px;
