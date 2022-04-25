@@ -183,7 +183,7 @@ video{
   right: 0;
   width: 30vw;
   height: 100%;
-  background-image: linear-gradient(135deg, #000000 0%, #000000e0 100%);
+  background-image: linear-gradient(135deg, #000000 0%, #000000 100%);
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
